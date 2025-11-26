@@ -1,5 +1,5 @@
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zkfpkdwyhyq) - Original Creator
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/ShaylenIT/ha-whatsapp-addon)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https://github.com/bergvliet/ha--addon-whatsapp)
 
 # Home Assistant Add-on: Whatsapp add-on
 
@@ -27,7 +27,7 @@ A WhatsApp API client that connects through the WhatsApp Web browser app
 Install add-on from this repository:
 ```
 Original Repo: https://github.com/giuseppecastaldo/ha-addons
-This Repo: https://github.com/ShaylenIT/ha-whatsapp-addon
+This Repo: https://github.com/bergvliet/ha-addon-whatsapp
 ```
 Start the add-on and in a few seconds you will see a persistent notification with QRCode, please scan this one with Whatsapp Mobile app.
 
