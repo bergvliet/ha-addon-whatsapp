@@ -27,7 +27,7 @@ Install add-on from this repository:
 
 ```
 Original Repo: https://github.com/giuseppecastaldo/ha-addons
-This Repo: https://github.com/ShaylenIT/ha-whatsapp-addon
+This Repo: https://github.com/bergvliet/ha-addon-whatsapp
 ```
 
 Start the add-on and in a few seconds you will see a persistent notification with QRCode, please scan this one with Whatsapp Mobile app.
